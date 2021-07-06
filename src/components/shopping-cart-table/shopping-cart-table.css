@@ -13,9 +13,9 @@
   margin-top: 5px;
 }
 
-/* .table td:last-child {
+.table td:last-child {
   text-align: right;
-} */
+}
 
 i .fa .fa-trash {
   font-size: 1rem;
